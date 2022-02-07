@@ -1,4 +1,5 @@
-# dev.linux
+# DEV LINUX | Configurações ...
+
 Comando mas usado no linux
 
 
